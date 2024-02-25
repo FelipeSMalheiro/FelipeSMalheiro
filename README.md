@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 # Me chamo Felipe Malheiro, sou estudante da Fatec, no curso de ADS!!
 
 <!--
